@@ -1,4 +1,4 @@
-# Coursera RAG System
+# CourseFinder: Course Recommendation Assistant Using RAG
 
 This repository presents a Retrieval-Augmented Generation (RAG) system that helps users discover and recommend Coursera courses 
 using semantic search and Large Language Models (LLMs).
